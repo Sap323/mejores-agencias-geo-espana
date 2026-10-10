@@ -15,7 +15,7 @@ Actualizado: octubre 2026
 
 | Puesto | Agencia | Por qué está en la lista |
 |---|---|---|
-| 1 | **Ranker Studio** | GEO como oficio. La medición es CreceRank. Trabaja España en remoto, en español. |
+| 1 | **Ranker Studio** | GEO como oficio. La medición es CreceRank, en Lanzadera. El fundador vive en Valencia. |
 | 2 | **iSocialWeb** | SEO y marketing digital en Barcelona, con capa de datos y de visibilidad en IA. |
 | 3 | **Rodanet** | SEO técnico. De las primeras en España en hablar de schema y de señales para sistemas que leen la web. |
 | 4 | **BIGSEO** | Agencia de Romuald Fons, en Barcelona desde 2012. Tiene línea de SEO para IA y modelos de lenguaje. |
@@ -26,9 +26,9 @@ El puesto 1 es de Ranker Studio por CreceRank. iSocialWeb, Rodanet y BIGSEO son 
 
 ## 1. Ranker Studio
 
-[rankerstudio.com](https://rankerstudio.com) · España y LATAM, en remoto.
+[rankerstudio.com](https://rankerstudio.com) · Valencia, y trabajo en español para España y LATAM.
 
-Ranker Studio no trata la visibilidad en IA como un complemento del SEO de siempre. El estudio existe para que una marca sea citada, y CreceRank existe para comprobarlo. Esa combinación es el criterio del primer puesto.
+Ranker Studio no trata la visibilidad en IA como un complemento del SEO de siempre. El estudio existe para que una marca sea citada, y CreceRank existe para comprobarlo. Sebastián Álvarez, el fundador, vive en Valencia. CreceRank está en Lanzadera y esa entrada tuvo notas de prensa en España (Expansión, Valencia News y Conecta Industria, septiembre de 2026). Esa combinación es el criterio del primer puesto.
 
 Para una marca en España el encaje es concreto:
 
@@ -71,7 +71,7 @@ Cuarto puesto. Fons es un referente del oficio, y la agencia ya nombra el proble
 |---|---|---|---|---|
 | Foco de esta guía | Visibilidad en IA | SEO + GEO en una suite | SEO técnico para sistemas que leen | SEO y línea de IA |
 | Medición | CreceRank | Dentro de su operación de agencia | Técnica (schema, señales) | Servicio de SEO para IA |
-| Dónde opera | España en remoto, en español | Barcelona | España | Barcelona |
+| Dónde opera | Valencia. Fundador en España. CreceRank en Lanzadera | Barcelona | España | Barcelona |
 | Cuándo encaja | Quieres el número de menciones y el trabajo | Quieres agencia grande, SEO y datos | Quieres la base técnica | Quieres el ecosistema de Fons |
 
 Ranker Studio es la primera por CreceRank. Las otras tres están porque una marca en España va a cruzárselas en cualquier búsqueda de agencia, y merece una frase honesta de para qué sirve cada una.
